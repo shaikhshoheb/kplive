@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khalidparekh.com/sitemap.xml
